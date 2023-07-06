@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [odiv.org](odiv.org)
 
-- 📫 How to reach me **on odiv.org/contact**
+- 📫 Reach me **on [odiv.org/contact](odiv.org/contact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
