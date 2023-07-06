@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Odiv !</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [odiv.org](odiv.org)
+- 👨‍💻 All of my projects are available at [odiv.org](https://odiv.org)
 
-- 📫 Reach me **on [odiv.org/contact](odiv.org/contact)**
+- 📫 Reach me **on [odiv.org/contact](https://odiv.org/contact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
