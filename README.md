@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Odiv !</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=odilonv&label=Profile%20views&color=f15f5f&style=flat" alt="odilonv" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=odilonv&label=Profile%20views&color=f15f5f&style=flat" alt="odilonv" /> </p>
 
 - 👨‍💻 All of my projects are available at [odiv.org](odiv.org)
 
