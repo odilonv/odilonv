@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Odilon !</h1>
+<h1 align="center">Hi 👋, I'm Odiv !</h1>
 <h3 align="center">A passionate developer from France</h3>
 
 - 👨‍💻 All of my projects are available at [odiv.org](https://odiv.org)
