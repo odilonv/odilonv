@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Odilon !</h1>
 <h3 align="center">A passionate software engineer from France</h3>
 
-- 👨‍💻 Check out my personal website at [odiv.org](https://odilonv.github.io/odiv.org) to explore my projects, experiences, and more.
+- 👨‍💻 My personal website is live at [odiv.org](https://odilonv.github.io/odiv.org)!
 
 - 📫 Reach me **on [odiv.org/contact](https://odilonv.github.io/odiv.org/contact)**
 
