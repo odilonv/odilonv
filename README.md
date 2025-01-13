@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Odilon !</h1>
 <h3 align="center">A passionate software engineer from France</h3>
 
-- 👨‍💻 My personal website is live at [odiv.org](https://odilonv.github.io/odiv.org)!
+- 🚀 The beta version of my productivity app is now available! Check it out at [opomly.com](https://www.opomly.com).
 
+- 👨‍💻 My personal website is live at [odiv.org](https://odilonv.github.io/odiv.org)!
 - 📫 Reach me **on [odiv.org/contact](https://odilonv.github.io/odiv.org/contact)**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,8 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" 
-height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/vuejs-original-wordmark.svg" alt="Vuejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
