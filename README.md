@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Odilon !</h1>
 <h3 align="center">A passionate software engineer from France</h3>
 
-- 🚀 The beta version of my productivity app is now available! Check it out at [opomly.com](https://www.opomly.com).
+- 🚀 The beta version of my AI productivity app is now available! Check it out at [opomly.com](https://www.opomly.com).
 - 👨‍💻 My personal website is live at [odiv.org](https://odilonv.github.io/odiv.org)!
 - 📫 Reach me **on [odiv.org/contact](https://odilonv.github.io/odiv.org/contact)**
 
