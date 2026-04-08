@@ -10,7 +10,6 @@
 <a href="https://twitter.com/odiv_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="odiv_v" height="30" width="40" /></a>
 <a href="https://instagram.com/odiv_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="odiv_v" height="30" width="40" /></a>
 <a href="https://www.behance.net/odiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="odiv" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/odiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="odiv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
