@@ -2,8 +2,6 @@
 <h3 align="center">A passionate software engineer from France</h3>
 
 - 🚀 My AI productivity app is now available! Check it out at [opomly.com](https://www.opomly.com).
-- 👨‍💻 My personal website is live at [odiv.org](https://odilonv.github.io/odiv.org)!
-- 📫 Reach me **on [odiv.org/contact](https://odilonv.github.io/odiv.org/contact)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
